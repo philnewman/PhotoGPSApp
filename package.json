@@ -13,7 +13,15 @@
     "expo": "~53.0.17",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
-    "react-native": "0.79.5"
+    "react-native": "0.79.5",
+    "expo-camera": "~16.1.10",
+    "expo-location": "~18.1.6",
+    "expo-media-library": "~17.1.7",
+    "react-dom": "19.0.0",
+    "react-native-web": "^0.20.0",
+    "@expo/metro-runtime": "~5.0.4",
+    "expo-auth-session": "~6.2.1",
+    "expo-file-system": "~18.1.11"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
